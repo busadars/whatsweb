@@ -1,0 +1,13 @@
+{
+  "name": "wa-bot-baileys",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.0.0",
+    "express": "^4.21.0"
+  }
+}
